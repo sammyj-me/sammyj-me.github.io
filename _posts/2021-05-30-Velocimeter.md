@@ -3,7 +3,7 @@ title: Velocimeter
 author: Sam Johnson
 blurb: A device to measure position, velocity, and acceleration over time for sport application purposes.
 layout: blog
-image: running_machine.jpg
+image: running_machine.JPG
 ---
 ## Project Details:
 #### Type: Personal Project <br>Supervisor: Me <br>Dates Active: May 2021 – Present
