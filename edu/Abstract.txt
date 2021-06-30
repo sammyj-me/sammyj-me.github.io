@@ -1,0 +1,21 @@
+The goal of this research is to document how velocity of an effervescent jet is affected by distance, bubble size and gas-to-liquid ratio (GLR) in the jet.
+
+
+An open source MATLAB program was used to analyze the particle pattern of a jet flow.
+
+The effervescent jet injected air perpendicular to the liquid flow, allowing for the manipulation of the GLR and bubble sizes.
+
+High-speed video was captured of different GLRs ranging from 0.0006 to 0.0023, and bubble diameters of 0.258(mm) and 1.748(mm).
+
+Individual frames from the high-speed video were imported into a MATLAB based PIV program.
+
+Vector analysis was performed on a frame-by-frame basis on lines that spanned the jet flow three, five, and seven diameters (of the jet nozzle) away from the jet nozzle.
+
+Radial and axial velocity vector data at each diameter was imported into Microsoft Excel and further data analysis was performed.
+
+Histograms containing percent frequencies and bins for selected u and v velocities were created in excel.
+
+•	instead of finding supporting evidence we are documenting how velocity distribution downstream of an effervescent jet is affected by distance, bubble size and gas to liquid ratio in the jet
+•	I would define what an effervescent jet is early in the abstract (mixture of bubbles and liquid)
+•	Instead of GLR call it the gas to liquid ration
+•	Give a couple of specific numbers - like GLR range and bubble size range

@@ -1,0 +1,37 @@
+---
+title: projects
+layout: basic
+---
+
+<h1>Projects</h1>
+
+   
+    <div class="cols">
+        {% for post in site.posts %}
+        <div class="half">
+
+            <div class="posts-entry">
+                
+                <div class="photo-container">
+                    <img src="{{site.baseurl}}/media/{{post.image}}" alt"" > <!-- source images in media folder-->
+                </div>
+                
+                <a class="posts-entry-title" href="{{ post.url }}">{{ post.title }}</a>
+                <span class="posts-entry-date">{{ post.date | date: "%B %-d, %Y" }}</span>
+                <span class="posts-entry-blurb">{{ post.blurb }}</span>
+            </div>
+                <br />
+        </div>
+        {% endfor %}
+    </div>    
+
+<!--
+<div class="wide sep"></div>
+
+    <h2>Section for separate posts</h2>
+    <div class="posts-entry">
+        <a class="posts-entry-title" href="link me here">Title me</a>
+        <span class="posts-entry-date">date, link to site</span>
+        <span class="posts-entry-blurb">short description here</span>
+    </div>
+-->
