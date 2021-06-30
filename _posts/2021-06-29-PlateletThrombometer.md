@@ -3,7 +3,7 @@ title: Platelet Thrombometer
 author: Sam Johnson
 blurb: Building from scratch, a platelet reactivity testing device.
 layout: blog
-image: PlateletThrombometer.jpg
+image: PlateletThrombometer.JPG
 ---
 ## Project Details:
 #### Co: SUBC INC. <br>Supervisor: Dr. Dan Ericson <br>Dates Active: June 2020 – Present
