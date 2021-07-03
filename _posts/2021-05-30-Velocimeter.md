@@ -9,10 +9,11 @@ image: running_machine.JPG
 #### Type: Personal Project <br>Supervisor: Me <br>Dates Active: May 2021 – Present
 <br>
 
-In May 2020 I injured my shoulder, throwing a wrench into my plans to experiment heavily with swim training over the year-long quarantine. I figured if I didn't have pool or gym access, I couldn't work my shoulders for a good while anyway so I decided to dive into
-Track & Field, specifically sprinting.
+In May 2020 I injured my shoulder, throwing a wrench into my plans to experiment heavily with swim training over the year-long quarantine. I figured if gyms and pools were closed due to covid, I couldn't work my shoulders for a good while anyway. I decided to find a different activity to try.
 
-Over the course of 13 months, I managed to improve my top speed over 10m from approximately 18.2 mph to around 21.0 mph by reading about training methodologies online and designing my own program to get me faster.
+I settled on sprinting, where I begun reading about training methodologies online and designing my own program to get me faster.
+
+Over the course of about 1 year, I managed to improve my top speed over 10m from approximately 18.2 mph to around 21.0 mph.
 
 The way I would measure my times would be by taking a video of myself, and subtracting the end point timestamp from the start point timestamp. After about a year of doing this I have learned the following:
 - It's tedious to flip between the camera, video editing app, and calculator on your phone

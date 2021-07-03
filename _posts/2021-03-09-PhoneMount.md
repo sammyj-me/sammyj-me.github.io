@@ -10,7 +10,7 @@ image: phone_mount.PNG
 
 # *STLs and full build instructions available on [Thingiverse](https://www.thingiverse.com/thing:4853769).*
 
-I began conceptualizing this project in October 2020. I was able to finally print my design after buying a 3D printer in May of 2021.
+I began conceptualizing this project in October 2020. I was able to finally print my design after recieving my 3D printer in March of 2021.
 <img src="\media\Project Pics 2021\PhoneMount\standing.jpg" alt="Sketches"/>
 
 I take a lot of video of myself to review my progress within athletic activities, and it's not always convenient bringing a tripod to the pool or track or the gym, 
@@ -20,7 +20,7 @@ mostly because it's big and bulky. Even imagine cruising for a mile to the skate
 
 It's also not very convenient asking strangers to film you every 3 minutes or so. 
 
-I decided to eliminate the bulk of a tripod and opportunities to face social anxiety by designing a smaller "quad-pod" that stands on it's own and can be clamped to anything that fits within the C-clamp inspired vice.
+I decided to eliminate the bulk of a tripod (and social interaction) by designing a smaller "quad-pod" that stands on it's own and can be clamped to anything that fits within the C-clamp inspired vice.
 
 Early Design Sketches:
 <img src="\media\Project Pics 2021\PhoneMount\sketches.png" alt="Sketches"/>
