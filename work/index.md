@@ -77,7 +77,7 @@ title: Work
 - **CAD**: `SolidWorks`, `ANSYS`
 - **Tools**: General Woodworking Tools, CNC Mills, CNC Lathes, Precision hand mills/lathes, 3D Printers, Laser Cutters
 - **Data analysis**: `Minitab`, `Excel`, `MATLAB`, `LabVIEW`
-- **Programming**: `Arduino`, `C`, `HTML/CSS`, `Python`
+- **Programming**: `Arduino`, `C`, `HTML/CSS`, `Python`, `Raspberry Pi` 
 - **Bonus**: `Adobe Premiere`, `Adobe After Effects`, `Adobe Lightroom`, `GIMP`, DSLRs (& misc. photography), Espresso Machines
 
 
