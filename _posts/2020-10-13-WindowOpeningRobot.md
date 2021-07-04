@@ -23,7 +23,7 @@ To create this linear actuating system to open and close my window for me I woul
 
 #### The logic was as follows:
 
-1. Delay 30 minutes (1800 seconds)
+1. Delay 30 minutes
 2. Check reading of the DHT sensor
 3. While adjust = true<br>
 	3a. If sensor read > 72 degrees<br>
