@@ -10,9 +10,6 @@ image: PlateletThrombometer.JPG
 <br>
 I picked up my first origami book at the age of 6: The complete book of origami by Robert J. Lang.
 
-/* <img src="\media\Project Pics 2021\PlateletProject\sidebyside.JPG" alt="SJ-01 and SJ-02"/>   */
-/* <img src="\media\Project Pics 2021\PlateletProject\gui.JPG" alt="SJ-01 GUI Home Screen"/> */
-
 Over the last few years I've gotten into more complex origami that involves pre-creasing designs to a blueprint--a crease pattern--before collapsing them by folding each pre-made crease in a specific order.
 The process of pre-creasing can be extremely tedious, taking hours to make hundreds of folds while weighing the risk of human error. Mistakes add up and inaccuracies can turn your art project into plain recycling.
 
