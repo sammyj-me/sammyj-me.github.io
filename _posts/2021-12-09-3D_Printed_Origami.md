@@ -48,4 +48,4 @@ Without a large-format printer I decided to call it a time for this project.
 Things I learned:
 - SolidWorks STL manipulation
 - 3D print tuning
-- FDM printing boundaries
+- FDM printing limitations
