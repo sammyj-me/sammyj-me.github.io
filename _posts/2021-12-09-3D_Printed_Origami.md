@@ -13,13 +13,13 @@ I picked up my first origami book at the age of 6: The complete book of origami 
 Over the last few years I've gotten into more complex origami that involves pre-creasing designs to a blueprint--a crease pattern--before collapsing them by folding each pre-made crease in a specific order.
 The process of pre-creasing can be extremely tedious, taking hours to make hundreds of folds while weighing the risk of human error. 
 
-<img src="media\Project Pics 2021\PlasticOrigami\dollarkoi.jpg" alt="Case in point"/>
+<img src="\media\Project Pics 2021\PlasticOrigami\dollarkoi.jpg" alt="Case in point"/>
 
 Mistakes add up and inaccuracies can turn your art project into plain recycling.
 
 To leapfrog the step of pre-creasing, I decided to create my own "paper" by modeling a thin plane in SolidWorks and extruding even thinner cuts along the crease pattern. The specific model I decided to craft is called "Spring Into Action" by Jeff Beynon.
 
-<img src="media\Project Pics 2021\PlasticOrigami\springintoaction.jpg" alt="Paper model in question"/>
+<img src="\media\Project Pics 2021\PlasticOrigami\springintoaction.jpg" alt="Paper model in question"/>
 
 I was only able to print 1/6th of the model due to size limitations of my trusty Prusa Mini.
 
@@ -27,9 +27,9 @@ Prusa Slicer Settings were set to:
 - 3 bottom layers at 0.05mm each.
 - 2 following layers at 0.05mm each.
 
-<img src="media\Project Pics 2021\PlasticOrigami\plasticorigami3.png" alt="Sketches"/>
-<img src="media\Project Pics 2021\PlasticOrigami\plasticorigami1.png" alt="Sketches"/>
-<img src="media\Project Pics 2021\PlasticOrigami\springintoaction.png" alt="Sketches"/>
+<img src="\media\Project Pics 2021\PlasticOrigami\plasticorigami3.png" alt="Plastic Sheet of *paper* "/>
+<img src="\media\Project Pics 2021\PlasticOrigami\plasticorigami1.png" alt=""/>
+<img src="\media\Project Pics 2021\PlasticOrigami\springintoaction.png" alt=""/>
 
 Results: Print bed isn't always completely level or adhesion in certain areas isn't always as good--this is extremely important when printing thin layers that are critical to the form and function of your product.
 
