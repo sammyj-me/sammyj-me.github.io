@@ -8,7 +8,7 @@ image: plasticorigami1.png
 ## Project Details:
 #### Co: Me <br>Supervisor: Me <br>Dates Active: December 2021
 <br>
-I picked up my first origami book at the age of 6: The complete book of origami by Robert J. Lang.
+I picked up my first origami book at the age of 6: The complete book of origami by Robert J. Lang. 
 
 Over the last few years I've gotten into more complex origami that involves pre-creasing designs to a blueprint--a crease pattern--before collapsing them by folding each pre-made crease in a specific order.
 The process of pre-creasing can be extremely tedious, taking hours to make hundreds of folds while weighing the risk of human error. 
