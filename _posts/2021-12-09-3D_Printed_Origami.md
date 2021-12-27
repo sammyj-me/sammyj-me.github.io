@@ -21,17 +21,25 @@ To leapfrog the step of pre-creasing, I decided to create my own "paper" by mode
 
 <img src="\media\Project Pics 2021\PlasticOrigami\springintoaction.jpg" alt="Paper model in question"/>
 
-I was only able to print 1/6th of the model due to size limitations of my trusty Prusa Mini.
+I was only able to print ~1/6th of the model due to size limitations of my trusty Prusa Mini.
 
-Prusa Slicer Settings were set to:
-- 3 bottom layers at 0.05mm each.
-- 2 following layers at 0.05mm each.
+For V0, the Prusa Slicer Settings were set to:
+- 2 bottom layer at 0.05mm.
+- 2 extruded layers at 0.05mm each.
 
 <img src="\media\Project Pics 2021\PlasticOrigami\plasticorigami3.png" alt="Plastic Sheet of *paper* "/>
 <img src="\media\Project Pics 2021\PlasticOrigami\plasticorigami1.png" alt=""/>
 <img src="\media\Project Pics 2021\PlasticOrigami\springintoaction.png" alt=""/>
 
 Results: Print bed isn't always completely level or adhesion in certain areas isn't always as good--this is extremely important when printing thin layers that are critical to the form and function of your product.
+
+I washed the print bed with soap and water to get rid of any oil that could cause the critical-to-function 1st layer to misadhere and readjusted the print bed settings.
+
+For V1, the Prusa Slicer Settings were set to:
+- 1 bottom layer at 0.05mm.
+- 1 extruded layers at 0.05mm each.
+
+The result when collapsing was a MUCH thinner paper that responded more easily to folding. I was able to add another 2 "rings" to the model which was very satisfying.
 
 I sent my results to Robert J. Lang himself while inquiring if he's worked on anything similar. He replied with a link to his Origami lamp that he designed, and that is in production. This piqued another thought of curiosity...What if I modeled a lithophane onto the surface of this lamp and created a custom graphic to the panels of the base or shade?
 
@@ -48,11 +56,14 @@ I needed to cut extrude through the lithophane and generate planes in certain ar
 
 I joined the two parts (panel-adjusted lithophane and lamp geometries) in an assembly before exporting to a final STL.
 
-I set up the print and waited ~11 hours to find that my print bed was again a limiting factor in creating a "successful" lamp. Everything printed smoothly but the panels were far too thick in order to fold. The thinness of the creases were still too thick to fold. My lamp print ended up cracking as I attempted to fold it.
+I set up the print and waited ~11 hours to find that my print bed was again a limiting factor in creating a "successful" lamp. Everything printed smoothly but the panels were far too thick in order to fold. The thinness of the creases were still too thick to fold. My lamp print ended up cracking as I attempted to fold it. The base layer was too thick.
 
-Without a large-format printer I decided to call it a time for this project.
+I adjusted the 3D model such that the base layer of plastic was only 0.05mm, exactly like the "Spring into Action" model. After printing, it successfully collapsed.
+
+I attempted a 2nd folding lithophane lamp, this time adding graphics of my sister's beloved boy band, BTS. After importing the SolidWorks and making the aforementioned adjustments, I sent the model to my printer and successfully created another lamp.
 
 Things I learned:
 - SolidWorks STL manipulation
-- 3D print tuning
-- FDM printing limitations
+- FDM print tuning
+
+Other applications of 3D printing origami is creating a low cost method to "test" folds. There are extremely intricate crease patterns on some models such as the scales of Ryujin 2.1, a Chinese style dragon designed by Kamiya Satoshi. Folders that attempt this model must use specific low-thickness paper that is malleable but also rigid enough to keep shape and not tear. These materials can get expensive--it might be benefical if folders are able to practice collapsing intricate folds on low-risk materials that are also easily replicable or iterable (with CAD).  
