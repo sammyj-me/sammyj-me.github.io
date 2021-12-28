@@ -20,7 +20,7 @@ After doing these steps many times, I realized I could break it down further int
 
 In designing a python app/bot to solve this issue, I figured out the following process and wrote code as necessary.
 
-1. I would have to send the bot the link of the video I was currently watching and the timestamp of the video where/when I wanted it to resume playing.
+##1. I would have to send the bot the link of the video I was currently watching and the timestamp of the video where/when I wanted it to resume playing.##
 
 I explored "true" text message API options like twilio but did not want to pay any premium for this app.
 
@@ -35,7 +35,7 @@ hello world
 
 I then created a new contact in my iPhone with only the email filled in. Now when I text the contact, it sends a .txt file to the email containing any text or image information I had included from my phone.
 
-2. The bot would process the text
+##2. The bot would process the text##
 
 The next step would be to process this text.
 
@@ -51,7 +51,7 @@ But coming back on track, I needed it to open YouTube videos specifically. I cre
 
 This worked! But as of December 2021, YouTube disabled the autoplay feature AND the ability to easily share timestamps on mobile. I wanted the "continue on PC" process to be as seamless as possible.
 
-3. The bot would open some kind of media player to play the video.
+##3. The bot would open some kind of media player to play the video.##
 
 I first tried using VLC media player to open the YouTube video. This sort of worked but because VLC opened the video as a "stream", there was no way to pause, play, or scrub through the video.
 
@@ -60,6 +60,8 @@ With a bit of help from google, I found that if I embed the video in a frame wit
 It works!
 
 <img src="\media\Project Pics 2021\PlasticOrigami\dollarkoi.jpg" alt="Case in point"/>
+
+##4. The bot needs to repeat the process and continue checking for emails##
 
 Things I learned:
 - Various elements of Python IoT scripting
