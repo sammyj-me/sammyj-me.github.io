@@ -28,7 +28,10 @@ I worked around the above issue by using gmail and a free email API that would a
 
 I set up a new email to act as the "server" or internet communication liason between my phone and my computer. I wrote the following code and adjusted the email account's security preferences within google to allow the bot to process any incoming messages.
 
-> user login code
+<!-- HTML generated using hilite.me --><div style="background: #ffffff; overflow:auto;width:auto;border:solid gray;border-width:.1em .1em .1em .8em;padding:.2em .6em;"><pre style="margin: 0; line-height: 125%">user login code
+test
+hello world
+</pre></div>
 
 I then created a new contact in my iPhone with only the email filled in. Now when I text the contact, it sends a .txt file to the email containing any text or image information I had included from my phone.
 
