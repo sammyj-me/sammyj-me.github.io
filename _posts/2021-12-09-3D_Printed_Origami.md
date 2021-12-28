@@ -8,11 +8,11 @@ image: plasticorigami1.png
 ## Project Details:
 #### Co: Me <br>Supervisor: Me <br>Dates Active: December 2021
 <br>
-After being introduced to origami when I was 6 by a book by Robert J. Lang, I've evolved to explore more complex origami that involves pre-creasing designs to a crease pattern before collapsing them by folding each pre-made crease in a specific order.
-The process of pre-creasing can be extremely tedious, taking hours to make hundreds of folds while weighing the risk of human error. 
+After being introduced to origami when I was 6 (by a book by Robert J. Lang), I've evolved to explore more complex origami that involves pre-creasing designs (to a crease pattern) before collapsing them by folding each pre-made crease in a specific order.
+The process of pre-creasing can be extremely tedious, taking hours to make hundreds of folds. 
 
 <img src="\media\Project Pics 2021\PlasticOrigami\precreasesteps.PNG" alt="26 steps of pre creasing before folding the actual model..."/>
-26 steps of precreasing before folding the actual model...You eventual reach:
+27 steps of precreasing before folding the actual model...You eventual reach:
 <img src="\media\Project Pics 2021\PlasticOrigami\dollarkoi.jpg" alt="A complex origami requiring a crease pattern."/>
 ^ Folded by moi on a 3rd attempt ^
 
@@ -21,41 +21,44 @@ Mistakes add up and inaccuracies can turn your art project into plain recycling.
 To leapfrog the step of pre-creasing, I decided to create my own "pre-creased paper" by modeling a thin plane in SolidWorks and extruding even thinner cuts along the crease pattern. The specific model I decided to craft is called "Spring Into Action" by Jeff Beynon.
 
 <img src="\media\Project Pics 2021\PlasticOrigami\springintoaction.jpg" alt="Paper model in question"/>
-<img src="\media\Project Pics 2021\PlasticOrigami\springintoactionCAD.PNG" alt="Crease pattern made in CAD"/>
+Paper model in question.
 
-I was only able to print ~1/6th of the model due to size limitations of my trusty Prusa Mini.
+<img src="\media\Project Pics 2021\PlasticOrigami\springintoactionCAD.PNG" alt="Crease pattern made in CAD"/>
+Crease pattern made in SolidWorks.
+
+I was only able to fit ~1/6th of the base "paper" on my 3D print bed due to size limitations of my trusty Prusa Mini.
 
 For v0 of the plastic "Spring into Action", the Prusa Slicer Settings were set to:
 - 2 bottom layer at 0.05mm.
 - 2 extruded layers at 0.05mm each.
 
-Results: Print bed isn't always completely level or adhesion in certain areas isn't always as good--this is extremely important when printing thin layers that are critical to the form and function of your product. I had to trim the base layer of the "paper and that cut the overall size of the end model before collapsing and finalizing what I could for this verison.
-
 <img src="\media\Project Pics 2021\PlasticOrigami\plasticorigami2.png" alt=""/>
 <img src="\media\Project Pics 2021\PlasticOrigami\plasticorigami1.png" alt=""/>
+
+Results: Print bed isn't always completely level or adhesion in certain areas isn't always as good--this is extremely important when printing thin layers that are critical to the form and function of your product. I had to trim the base layer of the thick "paper" and that cut the overall size of the end model before collapsing the model.
 
 Error points in question:
 <img src="\media\Project Pics 2021\PlasticOrigami\plasticorigami3.png" alt="Plastic Sheet of *paper* "/>
 
 I washed the print bed with soap and water to get rid of any oil that wouldn't allow the critical-to-function 1st layer to adhere.
 
-For v1 of the plastic "Spring into Action", the Prusa Slicer Settings were set to:
+I decided to create a thinner v1 plastic "Spring into Action". The Prusa Slicer Settings were set to:
 - 1 bottom layer at 0.05mm.
 - 1 extruded layers at 0.05mm each.
 
-The result when collapsing was a MUCH thinner paper that responded more easily to folding. I was able to add another "ring" to the model which was very satisfying.
+The result when collapsing was a MUCH thinner paper that responded MUCH MORE easily to folding. I was able to add another "ring" to the model which was very satisfying.
 
 <img src="\media\Project Pics 2021\PlasticOrigami\spring2.jpeg" alt="Fixed!"/>
 
 I sent my results to Robert J. Lang himself while inquiring if he's worked on anything similar. <img src="\media\Project Pics 2021\PlasticOrigami\robertJlangresponse.PNG" alt="star struck!"/>
-[He replied with a link to his Origami lamp that he designed](https://www.thingiverse.com/thing:3896846). 
+[He replied with a link to his Origami lamp that he designed...see below on the right with the blue](https://www.thingiverse.com/thing:3896846). 
 
 This piqued another thought of curiosity...What if I modeled a lithophane onto the surface of this lamp and created a custom graphic to the panels of the base or shade?
 <img src="\media\Project Pics 2021\PlasticOrigami\potentialimage.png" alt="Donkey Kong December"/>
 
 I found the lamp model on Thingiverse and a free lithophane generator. I generated the STL of the beloved video game character "Donkey Kong" before adding it to the lamp model in SolidWorks. 
 
-<img src="\media\Project Pics 2021\PlasticOrigami\dklithophane.PNG" alt="Donkey Kong December"/>
+<img src="\media\Project Pics 2021\PlasticOrigami\dkLithophane.PNG" alt="Donkey Kong December"/>
 
 The extremely high mesh density of the .STL did not play nice with SolidWorks so I figured out a few mesh settings to allow me to actually manipulate the models:
 - Import the STL as a surface grpahic
@@ -76,9 +79,11 @@ I adjusted the 3D model such that the base layer of plastic was only 0.05mm, exa
 
 <img src="\media\Project Pics 2021\PlasticOrigami\dk1.png" alt="Flat Lithophane Lamp"/>
 <img src="\media\Project Pics 2021\PlasticOrigami\dk2.png" alt="Folded Lithophane Lamp"/>
+Finished (mini) lamp.
 
 Things I learned:
 - SolidWorks STL manipulation
 - FDM print tuning
+- PLA limitations
 
 Other applications of 3D printing origami is creating a low cost method to "test" folds. There are extremely intricate crease patterns on some models such as the scales of Ryujin 2.1, a Chinese style dragon designed by Kamiya Satoshi. Folders that attempt this model must use specific low-thickness paper that is malleable but also rigid enough to keep shape and not tear. These materials can get expensive (if you're not folding with actual currency :P)--it might be benefical if folders are able to practice collapsing intricate folds on low-risk materials that are also easily replicable or iterable (with CAD).  
