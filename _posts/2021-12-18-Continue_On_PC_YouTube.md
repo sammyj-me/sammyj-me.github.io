@@ -36,13 +36,15 @@ I then created a new contact in my iPhone with only the email filled in. Now whe
 
 The next step would be to process this text.
 
-> include text and code explanation
+<!-- HTML generated using hilite.me --><div style="background: #ffffff; overflow:auto;width:auto;border:solid gray;border-width:.1em .1em .1em .8em;padding:.2em .6em;"><pre style="margin: 0; line-height: 125%"><span style="color: #333333">&gt;</span> include text <span style="color: #000000; font-weight: bold">and</span> code explanation
+</pre></div>
 
 I decided to try and open a plain web URL which worked! I kept this conditional in the program--so now that whenever I text my phone a link, it would automatically open it in a web browser on my PC.
 
 But coming back on track, I needed it to open YouTube videos specifically. I created a conditional to read the funky shortened YouTube url and to open it in a browser.
 
-> include conditional
+<!-- HTML generated using hilite.me --><div style="background: #ffffff; overflow:auto;width:auto;border:solid gray;border-width:.1em .1em .1em .8em;padding:.2em .6em;"><pre style="margin: 0; line-height: 125%"><span style="color: #333333">&gt;</span> include conditional
+</pre></div>
 
 This worked! But as of December 2021, YouTube disabled the autoplay feature AND the ability to easily share timestamps on mobile. I wanted the "continue on PC" process to be as seamless as possible.
 
