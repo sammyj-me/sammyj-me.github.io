@@ -9,6 +9,7 @@ image: running_machine.JPG
 #### Type: Personal Project <br>Supervisor: Me <br>Dates Active: May 2021 – Present
 <br>
 
+<! ---
 In May 2020 I injured my shoulder, throwing a wrench into my plans to experiment heavily with swim training over the year-long quarantine. I figured if gyms and pools were closed due to covid, I couldn't work my shoulders for a good while anyway. I decided to find a different activity to try.
 
 I settled on sprinting, where I begun reading about training methodologies online and designing my own program to get me faster.
@@ -49,3 +50,5 @@ Long term, I hope to bring a more cost effective velocimeter to market.
 - An Arduino acts as the main "counter" to the rotary encoder and is interfaced to send position information to the raspberry pi.
 - Designed, modeled and printed a working drive train to reduce data output to the Arduino.
 - Position measurements are accurate to the inch and can calculate velocity and acceleration information every 0.03 seconds.
+
+-->
