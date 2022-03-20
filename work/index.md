@@ -18,7 +18,7 @@ title: Work
 
 {:.list-plus}
 - Designed and built a point-of-care medical device from scratch, (including one duplicate) <strong>moving from concept to clinical trials in 1 year.</strong>
-- Designed and 3D printed over 20 interworking fixtures for various mechanical systems within this device.
+- Designed and 3D printed various interworking fixtures for mechanical systems within this device.
 - Designed electrical and software system algorithms to give the user a touch-screen control over microfluidic pumps, LEDs, photoresistors, H-bridges, solenoid valves, and ultra-low pressure transducers (with corresponding amplifiers).
 - Troubleshooted microfluidic air leaks, circuitry issues, and UI bugs.
 - Trialed my own blood in the device to ensure repeatability of use before shipping to other sites for clinical testing.
