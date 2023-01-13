@@ -14,7 +14,17 @@ title: Work
 
 ## Work experience {#experience}
 
-**SUBC Inc**, Engineering Intern/Contractor, May 2020 to Present [View Full Project](/2021/06/29/PlateletThrombometer.html){:target="_blank" class="ilabel pink-block button"}
+**SUBC Inc**, Contract R&D Engineer, May 2020 to Present [View Full Project](/2021/06/29/PlateletThrombometer.html){:target="_blank" class="ilabel pink-block button"}
+
+{:.list-plus}
+- Designed and built a point-of-care medical device from scratch, (including one duplicate) <strong>moving from concept to clinical trials in 1 year.</strong>
+- Designed and 3D printed various interworking fixtures for mechanical systems within this device.
+- Designed electrical and software system algorithms to give the user a touch-screen control over microfluidic pumps, LEDs, photoresistors, H-bridges, solenoid valves, and ultra-low pressure transducers (with corresponding amplifiers).
+- Troubleshooted microfluidic air leaks, circuitry issues, and UI bugs.
+- Ensured repeatability of use before shipping to other sites for clinical testing.
+- Shot and edited videos for briefing and training purposes.
+
+<!-- **Aperto**, R&D Engineer, May 2020 to Present [View Full Project](/2021/06/29/PlateletThrombometer.html){:target="_blank" class="ilabel pink-block button"}
 
 {:.list-plus}
 - Designed and built a point-of-care medical device from scratch, (including one duplicate) <strong>moving from concept to clinical trials in 1 year.</strong>
@@ -22,7 +32,16 @@ title: Work
 - Designed electrical and software system algorithms to give the user a touch-screen control over microfluidic pumps, LEDs, photoresistors, H-bridges, solenoid valves, and ultra-low pressure transducers (with corresponding amplifiers).
 - Troubleshooted microfluidic air leaks, circuitry issues, and UI bugs.
 - Trialed my own blood in the device to ensure repeatability of use before shipping to other sites for clinical testing.
-- Shot and edited videos for briefing and training purposes.
+- Shot and edited videos for briefing and training purposes. -->
+
+**MicroMed Solutions**, Process Development Engineer, September 2021 to May 2022 
+<!-- [View Full Project](/2021/06/29/PlateletThrombometer.html){:target="_blank" class="ilabel pink-block button"} -->
+
+{:.list-plus}
+- Supported customers to define microfluidic biochip and cartridge design requirements
+- Delivered statistics-based capability studies for sheet and roll based fabrication processes.  
+- Coordinated with multi-disciplinary team to implement new value-add technologies. 
+- Designed tooling and fixtures and adjacent work instructions for a microfluidic device assembly processes.
 
 **The University of Saint Thomas**, Undergraduate Research Assistant, Spring 2020 [View Presentation Board](\edu\InquiryPoster.PNG){:target="_blank" class="button ilabel pink-block"}
 

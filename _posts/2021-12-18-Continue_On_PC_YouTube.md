@@ -1,5 +1,5 @@
 ---
-title: Building a Pyton Based "Continue on PC" Feature for YouTube
+title: Building a "Continue on PC" Feature for YouTube
 author: Sam Johnson
 blurb: Spotify has an amazing feature. YouTube is missing it. Let's build one with Python.
 layout: blog
