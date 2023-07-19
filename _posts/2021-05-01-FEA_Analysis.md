@@ -8,7 +8,6 @@ image: FEA-image.png
 ### About
 
 <div style="flex: 1; padding-right: 10px;">
-    <!-- <img src="/media/FEA-image.png" style="max-width: 400px; float: right; margin-left: 10px"> -->
     <p>
         My senior design project at the University of Saint Thomas was in collaboration with Emerson Electric's assembly line. My role was to utilize ANSYS software for Finite Element Analysis (FEA) to enhance the design of a crimping tool. This was a great experience for me to iterate mechanical designs, something that has fascinated me since realizing the expenses involved in mechanical system manufacturing processes.
     </p>
@@ -23,7 +22,8 @@ image: FEA-image.png
 - Problem-Solving
 - Collaboration
 
-<img src="/media/FEA-image.png" style="max-width: 400px; float: right; margin-left: 10px">
+<img src="/media/FEA-image.PNG" style="max-width: 400px; float: right; margin-left: 10px">
+
 ### Procedure
 
 #### Understanding Background:
