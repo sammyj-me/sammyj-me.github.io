@@ -7,16 +7,14 @@ layout: basic
     <div class="cols">
         {% for post in site.posts %}
         <div class="half">
-
             <div class="posts-entry">
+                    <div class="photo-container">     
+                        <img src="{{site.baseurl}}/media/{{post.image}}" alt="" onclick="window.location='{{ post.url }}';">
+                    </div>
+                    <a class="posts-entry-title" href="{{ post.url }}">{{ post.title }}</a>
+                    <span class="posts-entry-date">{{ post.date | date: "%B %-d, %Y" }}</span>
+                    <span class="posts-entry-blurb">{{ post.blurb }}</span>
                 
-                <div class="photo-container">
-                    <img src="{{site.baseurl}}/media/{{post.image}}" alt"" > <!-- source images in media folder-->
-                </div>
-                
-                <a class="posts-entry-title" href="{{ post.url }}">{{ post.title }}</a>
-                <span class="posts-entry-date">{{ post.date | date: "%B %-d, %Y" }}</span>
-                <span class="posts-entry-blurb">{{ post.blurb }}</span>
             </div>
                 <br />
         </div>

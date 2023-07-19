@@ -1,11 +1,14 @@
 ---
 layout: basic
-title: Work
+title: Resume
 ---
 
-# Work
+# Resume
 
-{: .list-bar .list-bold #sticky-nav-bar}
+<iframe src="../Samuel_Johnson_Resume.pdf#view=Fit" style="border: none;" scrolling="none" width="100%" height="750px">
+</iframe>
+
+<!-- {: .list-bar .list-bold #sticky-nav-bar}
 - Jump to
 - [Work experience](#experience)
 - [Leadership](#leadership)
@@ -22,7 +25,7 @@ title: Work
 - Designed electrical and software system algorithms to give the user a touch-screen control over microfluidic pumps, LEDs, photoresistors, H-bridges, solenoid valves, and ultra-low pressure transducers (with corresponding amplifiers).
 - Troubleshooted microfluidic air leaks, circuitry issues, and UI bugs.
 - Ensured repeatability of use before shipping to other sites for clinical testing.
-- Shot and edited videos for briefing and training purposes.
+- Shot and edited videos for briefing and training purposes. -->
 
 <!-- **Aperto**, R&D Engineer, May 2020 to Present [View Full Project](/2021/06/29/PlateletThrombometer.html){:target="_blank" class="ilabel pink-block button"}
 
@@ -34,9 +37,10 @@ title: Work
 - Trialed my own blood in the device to ensure repeatability of use before shipping to other sites for clinical testing.
 - Shot and edited videos for briefing and training purposes. -->
 
-**MicroMed Solutions**, Process Development Engineer, September 2021 to May 2022 
-<!-- [View Full Project](/2021/06/29/PlateletThrombometer.html){:target="_blank" class="ilabel pink-block button"} -->
+<!--**MicroMed Solutions**, Process Development Engineer, September 2021 to May 2022 
+ [View Full Project](/2021/06/29/PlateletThrombometer.html){:target="_blank" class="ilabel pink-block button"} -->
 
+<!--
 {:.list-plus}
 - Supported customers to define microfluidic biochip and cartridge design requirements
 - Delivered statistics-based capability studies for sheet and roll based fabrication processes.  
@@ -108,5 +112,7 @@ title: Work
 - **Varsity Competitor:** Swam at a varsity level for 7 seasons, including both high school and college level.
 - **Future Plans:** Keep swimming in my cycle of physical activities to keep improving to compete at <a href="https://www.usaswimming.org/events">speedo-sanctioned national level meets</a>.
 - **My own research:** I compile my own training notes into articles to reinforce a mental model of what progression looks like and what I wish I was told while still competing with an organized team.
+
+-->
 
 <script src="/styles/sticky.js" type="text/javascript"></script>
