@@ -3,7 +3,7 @@ title: FEA Analysis
 author: Sam Johnson
 blurb: A senior design project using ANSYS to design and manufacture a +1M-cycle-life crimping tool.
 layout: blog
-image: FEA-image.png
+image: FEA-image.PNG
 ---
 ### About
 
@@ -72,7 +72,7 @@ image: FEA-image.png
         Once our design had been thoroughly tested and adjusted, we moved on to the fourth stage. This involved creating a Bill of Materials (BOM) and conducting a final review of our design against the initial requirements.
     </p>
 </div>
-#### Manufacturing and Building:     <img src="/media/assembled-crimper.PNG" style="max-width: 400px; float: right; margin-left: 10px">
+#### Manufacturing and Building:     <img src="/media/Assembled-crimper.PNG" style="max-width: 400px; float: right; margin-left: 10px">
 <div style="flex: 1; padding-right: 10px;">
     <p>
         With our design finalized and approved, we proceeded to the fifth and final stage: manufacturing and building the crimping tool. This stage sending our part drawings and BOM to a local manufacturer to be heat treated, machined, and assembled.
