@@ -26,14 +26,14 @@ image: FEA-image.PNG
 
 ### Procedure
 
-#### Understanding Background:
+#### Understanding Background
 <div style="flex: 1; padding-right: 10px;">
     <p>
         The first stage required an understanding of the project's background. We analyzed a briefing document about the problem and defined the needs of the product.
     </p>
 </div>
 
-#### Defining Needs:
+#### Defining Needs
 <div style="flex: 1; padding-right: 10px;">
     <p>
         • Crimper shall be able to crimp 
@@ -54,25 +54,27 @@ image: FEA-image.PNG
     <img src="/media/crimper-solidworks.PNG" style="max-width: 400px; float: right; margin-left: 10px">    
 </div>
 
-#### Design Process:
+#### Design Process
 <div style="flex: 1; padding-right: 10px;">
     <p>
         These needs formed the basis upon which we would iterate designs as we started the design process. As my team members proposed designs, I applied motion analysis in SolidWorks and simulated designs in ANSYS software to verify clearance of certan part geometries and simulate strength of each design by measuring resulting forces. Design feedback would usually come through showing an array of simulation results, concluding in suggestions to add material thickness in areas where the simulated tool showed weakness.
     </p>
 </div>
-#### Emperical Testing:
+
+#### Emperical Testing
 <div style="flex: 1; padding-right: 10px;">
     <p>
         The third stage involved empirical testing of the physical force required to crimp tubes. We utilized an MTS machine for this testing process, which provided us with data to cross reference forces calculated with formulas and with the ANSYS simulation.
     </p>
 </div>
-#### Final Design Review:
+#### Final Design Review
 <div style="flex: 1; padding-right: 10px;">
     <p>
         Once our design had been thoroughly tested and adjusted, we moved on to the fourth stage. This involved creating a Bill of Materials (BOM) and conducting a final review of our design against the initial requirements.
     </p>
 </div>
-#### Manufacturing and Building:     <img src="/media/Assembled-crimper.PNG" style="max-width: 400px; float: right; margin-left: 10px">
+#### Manufacturing and Assembly
+<img src="/media/Assembled-crimper.PNG" style="max-width: 400px; float: right; margin-left: 10px">
 <div style="flex: 1; padding-right: 10px;">
     <p>
         With our design finalized and approved, we proceeded to the fifth and final stage: manufacturing and building the crimping tool. This stage sending our part drawings and BOM to a local manufacturer to be heat treated, machined, and assembled.

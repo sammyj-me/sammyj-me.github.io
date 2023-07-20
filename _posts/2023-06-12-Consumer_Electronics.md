@@ -7,9 +7,10 @@ image: isometric_render.JPG
 ---
 
 ### About
-The Aperto Terrier is an open-source consumer electronic device designed for measuring sprinting and linear velocity analysis. It uses a simple motor and encoder to capture and track linear motion. Signal processing techniques extract metrics like stride length, speed, and acceleration.
+<img src="/media/Terrier-Media/use.png" style="max-width: 400px; float: right; margin-left: 10px; margin-bottom:20px;">
+The Aperto Terrier is a consumer electronic device designed for measuring sprinting and linear velocity analysis. Athletes essentially unreel a spool that is measured by a rotary encoder, capturing their linear motion. Signal processing techniques extract over 18 running metrics including splits, max speed and more.
 
-With a user-friendly interface, users can access detailed reports and velocity visualizations to gain insights into technique and progress.
+With a user-friendly interface, athletes can access detailed reports and velocity visualizations to gain insights into technique and progress.
 
 The Aperto Terrier aims to help individuals, athletes, and researchers explore, innovate, and contribute to the advancement of athletic analysis.
 
@@ -82,9 +83,10 @@ Rapid prototyping skills such as using a breadboard for electronic components or
 - I went to Oberlin College in October 2022 to test updated designs and software with a coach I met in Eugene, Oregon. -->
 
 #### General Design
-I began this project selecting off-the-shelf parts, aiming for rapid prototyping due to the initial uncertainty about what components would work best. The key objective was to create a device that could accurately measure and record sprinting statistics.
+<img src="/media/Terrier-Media/Top-Down.PNG" style="max-width: 400px; float: right; margin-left: 20px; margin-bottom:20px;">
+I began this project selecting off-the-shelf parts, trying to quickly prototype something viable. The key objective at first was to prove the concept that the device could accurately measure and record sprinting statistics.
 
-Mechanical design involved a ground-up approach for the device's internal parts and mechanisms, including a line spool, level-wind mechanism and an encoder spool. These components were 3D printed and mounted inside an aluminum project box.
+Once a basic setup was working, I began redesigning the internal parts and mechanisms from the ground-up. I separated the design into a few "modules" including modules for the: line spool, level-wind mechanism and an encoder spool. These components were 3D printed and mounted inside an aluminum project box.
 
 The line spool has integrated a Brushless DC (BLDC) motor to provide drag for backlash of 80lb braided kevlar line that is tied to a user.
 
@@ -92,20 +94,44 @@ The level-wind mechanism is a module with a servo, rack and pinion, that serves 
 
 The encoder spool has an AMT-102-V encoder that acquires all position data of athletes unspooling the line.
 
-#### Embedded Software Development
-I wrote an Arduio program for an ESP32, enabling the acquisition of encoder readings, reading the hall effect sensor for stall detection, and managing the level wind mechanism's oscillation on rewind. This program was also responsible for centering the servo.
+I applied concepts from drag, backlash, dimensioning and tolerancing, machine design, DFA/DFM, material science and physics to iterate to a mechanical design and part selection that worked.
+
+#### Embedded Software Development 
+
+To add functionality to the parts, specifically the encoder, motor and servo, I wrote an Arduio program for an ESP32 to control the logic flow of the device. This enabled the acquisition of rotation point readings, stall detection, and managing the level wind mechanism's oscillation on rewind.
 
 #### Python Software Development
-In addition, I wrote a Python script with a UI to send commands via USB, acquire encoder data, visualize velocity information, sprinting stats, and organize athletes. More specifically, I enabled creation of athlete-specific folders for data organization, and reduced user friction through QR code recognition for wristbands (instead of typing user information in every time).
 
-After raw data acquisiton, this program also handled statistical analysis for data smoothing, extracting 18 variables from each rep, such as splits and stats from the +150m of unspooled line.
-
-#### Public Recognition
-Early in development, I shared my work online, which led to an invitation to visit Ferdinand Omanyala--Africa's Fastest Man--in Nairobi, Kenya. Embracing this opportunity, I demo'd my prototype and gained valuable feedback from a new culture's perspective.
+To interface with the ESP32 and store all the data, I wrote a Python program with a UI to send commands via USB because I found there wasn't a faster (and more easy to implement) method to transfer encoder data. In the Python program I used statistical analysis to process the raw encoder readings, visualize velocity sprinting stats, and organize athletes. More specifically, I enabled creation of athlete-specific folders for data organization, and reduced user friction through QR code recognition for wristbands (instead of repeatedly typing in user information).
+<div style="display: flex; justify-content: center; align-items: center;">
+    <img src="/media/Terrier-Media/Data Comparison.PNG" style="margin-right: 20px;">
+</div>
+<br>
+### Terrier In Action
+<div style="display: flex; justify-content: center; align-items: center;">
+    <iframe src="/media/Terrier-Media/use-video.mp4" style="height:500px; margin-left: 20px;"></iframe>
+</div>
 <br>
 <br>
-Similarly, I visited the 2022 Track and Field World Championships in Eugene, Oregon, to seek feedback from international coaches and fans. <br><br>
+<br>
+### Seeking Feedback from the Pros
+<div class="cols">
+    <div class="half">
+        <img src="/media/Terrier-Media/IMG_9031.JPG" display="inline;" style="max-width: 400px; float: center; margin-left: 20px;  margin-bottom:20px;">
+        <p style="max-width: 400px; margin-left: 10px">
+            Early in development, I shared my work online, which led to an invitation to visit Ferdinand Omanyala--Africa's Fastest Man--in Nairobi, Kenya. Embracing this opportunity, I demo'd my prototype and gained valuable feedback from a new culture's perspective.
+        </p>
+    </div>
+    <div class="half">
+        <img src="/media/Terrier-Media/Aperto x Ferdinand Omanyala.png" display="inline;" style="max-width: 400px; float: center; margin-left: 20px; margin-bottom:20px;">
+    </div>
+</div>
+
+Similarly, I visited the 2022 Track and Field World Championships in Eugene, Oregon, and gained valuable feedback from international coaches and fans.
+<br><br>
 In October 2022, I took the Terrier to Oberlin College to test updated designs and software with Ben Wach, a coach I had previously met in Oregon.
+<br><br>
+Most recently, students from Cornell University's Track Team have started a similar project. I have been giving them resources to engineer an upgraded version.
 
 <!-- Overall, this project demonstrated our capacity to integrate electronics, sensor data interpretation, embedded system programming, signal processing, statistical analysis, power management, design principles, and rapid prototyping into a successful, user-friendly sprint telemetry device. -->
 <!-- 
