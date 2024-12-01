@@ -25,13 +25,13 @@ image: Gallery-Thumbnail-Small.PNG
 
 ### About
 
-I had the opportunity to operate 4 Ton (3900 kg) CNC machines working at a CNC Machine Shop in the Summer of 2018 as an undergraduate engineering student.
+I discovered my love for CNC in the Summer of 2018. I was an undergraduate engineering student that operated 4 Ton (3900 kg) CNC machines at Rochester Precision Machine in Rochester MN.
 
-Since then, my old boss at SUBC Inc--Dr. Dan Ericson--gifted me a small CNC router.
+A few years later, my old boss at SUBC Inc--Dr. Dan Ericson--gifted me a small CNC router. Best day ever.
 
-I didn't have the budget to cut wood or metal, so I converted it into an X,Y Pen Plotter.
+I so badly wanted to use the router, but I didn't have the budget for parts to cut wood or metal. I then converted the router into an X,Y Pen Plotter.
 
-This plotter uses a 3D printed fixture for Z-axis pen fixing and actuation I designed and manufactured, custom plotting software, and custom embedded software/machine code I wrote.
+This post details how I designed fixtures and wrote software for pen holding, image-to-path conversion, and more.
 
 ### Skills Involved
 - Mechanical Design
