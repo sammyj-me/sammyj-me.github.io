@@ -25,7 +25,13 @@ image: Gallery-Thumbnail-Small.PNG
 
 ### About
 
-Since working at a Machine Shop I've been curious about CNC, but I wanted to build and integrate as much of a machine myself, so I converted a CNC Routing Machine into an X,Y Pen Plotter. It features a 3D printed fixture for Z-axis pen actuation, a custom plotting software, and custom embedded software/machine code.
+I had the opportunity to operate 4 Ton (3900 kg) CNC machines working at a CNC Machine Shop in the Summer of 2018 as an undergraduate engineering student.
+
+Since then, my old boss at SUBC Inc--Dr. Dan Ericson--gifted me a small CNC router.
+
+I didn't have the budget to cut wood or metal, so I converted it into an X,Y Pen Plotter.
+
+This plotter uses a 3D printed fixture for Z-axis pen fixing and actuation I designed and manufactured, custom plotting software, and custom embedded software/machine code I wrote.
 
 ### Skills Involved
 - Mechanical Design
