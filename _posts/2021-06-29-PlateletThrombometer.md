@@ -1,7 +1,7 @@
 ---
-title: Platelet Thrombometer
+title: Blood Analysis Device 
 author: Sam Johnson
-blurb: Building from scratch, a platelet reactivity testing device.
+blurb: Building a device that measures platelet reactivity.
 layout: blog
 image: PlateletThrombometer.JPG
 ---
