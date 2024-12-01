@@ -3,7 +3,7 @@ title: CNC X,Y Pen Plotter
 author: 
 blurb: Designed an X,Y Pen Plotter, including from-scratch software using Arduino, Python, OpenCV, and Computational Geometry to convert 2D images to tool paths to create shaded drawings.
 layout: blog
-image: Gallery-Thumbnail.PNG
+image: Gallery-Thumbnail-Small.PNG
 ---
 
 <div style="display: flex; flex-wrap: wrap; gap: 20px; justify-content: space-between;">
