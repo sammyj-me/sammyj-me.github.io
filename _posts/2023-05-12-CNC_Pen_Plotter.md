@@ -5,14 +5,21 @@ blurb: Designed an X,Y Pen Plotter, including from-scratch software using Arduin
 layout: blog
 image: drawings-before-z-integration-cropped.PNG
 ---
+<div style="display: flex; flex-wrap: wrap; gap: 20px; justify-content: space-between;">
+  <div style="flex: 1 1 calc(33.333% - 20px); min-width: 300px;">
+    <blockquote class="tiktok-embed" cite="https://www.tiktok.com/@lifeofasamjohnson/video/7269625242182618410" data-video-id="7269625242182618410" style="max-width: 100%; min-width: 100%;"></blockquote>
+  </div>
+  <div style="flex: 1 1 calc(33.333% - 20px); min-width: 300px;">
+    <blockquote class="tiktok-embed" cite="https://www.tiktok.com/@lifeofasamjohnson/video/7268389183536794922" data-video-id="7268389183536794922" style="max-width: 100%; min-width: 100%;"></blockquote>
+  </div>
+  <div style="flex: 1 1 calc(33.333% - 20px); min-width: 300px;">
+    <blockquote class="tiktok-embed" cite="https://www.tiktok.com/@lifeofasamjohnson/video/7267304365378096430" data-video-id="7267304365378096430" style="max-width: 100%; min-width: 100%;"></blockquote>
+  </div>
+</div>
+
+<script async src="https://www.tiktok.com/embed.js"></script>
 
 <img src="/media/CNC-Media/CNC-big.PNG" style="max-width: 400px; float: right; margin-left: 10px">
-
-<blockquote class="tiktok-embed" cite="https://www.tiktok.com/@lifeofasamjohnson/video/7269625242182618410" data-video-id="7269625242182618410" style="max-width: 605px;min-width: 325px;" > <section> <a target="_blank" title="@lifeofasamjohnson" href="https://www.tiktok.com/@lifeofasamjohnson?refer=embed">@lifeofasamjohnson</a> <a title="fyp" target="_blank" href="https://www.tiktok.com/tag/fyp?refer=embed">#fyp</a> <a title="artistsoftiktok" target="_blank" href="https://www.tiktok.com/tag/artistsoftiktok?refer=embed">#artistsoftiktok</a> <a title="sketch" target="_blank" href="https://www.tiktok.com/tag/sketch?refer=embed">#sketch</a>  <a title="fypシ" target="_blank" href="https://www.tiktok.com/tag/fyp%E3%82%B7?refer=embed">#fypシ</a>  <a title="pendrawing" target="_blank" href="https://www.tiktok.com/tag/pendrawing?refer=embed">#pendrawing</a> <a title="artwork" target="_blank" href="https://www.tiktok.com/tag/artwork?refer=embed">#artwork</a>   <a title="drawings" target="_blank" href="https://www.tiktok.com/tag/drawings?refer=embed">#drawings</a>  <a title="artist" target="_blank" href="https://www.tiktok.com/tag/artist?refer=embed">#artist</a>  <a title="sketches" target="_blank" href="https://www.tiktok.com/tag/sketches?refer=embed">#sketches</a>  <a title="fyp" target="_blank" href="https://www.tiktok.com/tag/fyp?refer=embed">#fyp</a> <a target="_blank" title="♬ original sound - Roshan" href="https://www.tiktok.com/music/original-sound-7203832732459256581?refer=embed">♬ original sound - Roshan</a> </section> </blockquote> <script async src="https://www.tiktok.com/embed.js"></script>
-
-<blockquote class="tiktok-embed" cite="https://www.tiktok.com/@lifeofasamjohnson/video/7268389183536794922" data-video-id="7268389183536794922" style="max-width: 605px;min-width: 325px;" > <section> <a target="_blank" title="@lifeofasamjohnson" href="https://www.tiktok.com/@lifeofasamjohnson?refer=embed">@lifeofasamjohnson</a> <a title="fyp" target="_blank" href="https://www.tiktok.com/tag/fyp?refer=embed">#fyp</a> <a title="artistsoftiktok" target="_blank" href="https://www.tiktok.com/tag/artistsoftiktok?refer=embed">#artistsoftiktok</a>  <a title="sketch" target="_blank" href="https://www.tiktok.com/tag/sketch?refer=embed">#sketch</a>  <a title="fypシ" target="_blank" href="https://www.tiktok.com/tag/fyp%E3%82%B7?refer=embed">#fypシ</a>  <a title="pendrawing" target="_blank" href="https://www.tiktok.com/tag/pendrawing?refer=embed">#pendrawing</a> <a title="artwork" target="_blank" href="https://www.tiktok.com/tag/artwork?refer=embed">#artwork</a>  <a title="drawings" target="_blank" href="https://www.tiktok.com/tag/drawings?refer=embed">#drawings</a>  <a title="artist" target="_blank" href="https://www.tiktok.com/tag/artist?refer=embed">#artist</a>  <a title="sketches" target="_blank" href="https://www.tiktok.com/tag/sketches?refer=embed">#sketches</a> <a target="_blank" title="♬ falling for ya - ★SPED UP AUDIOS" href="https://www.tiktok.com/music/falling-for-ya-7091906073669552902?refer=embed">♬ falling for ya - ★SPED UP AUDIOS</a> </section> </blockquote> <script async src="https://www.tiktok.com/embed.js"></script>
-
-<blockquote class="tiktok-embed" cite="https://www.tiktok.com/@lifeofasamjohnson/video/7267304365378096430" data-video-id="7267304365378096430" style="max-width: 605px;min-width: 325px;" > <section> <a target="_blank" title="@lifeofasamjohnson" href="https://www.tiktok.com/@lifeofasamjohnson?refer=embed">@lifeofasamjohnson</a> <a title="firstpost" target="_blank" href="https://www.tiktok.com/tag/firstpost?refer=embed">#firstpost</a> <a title="fyp" target="_blank" href="https://www.tiktok.com/tag/fyp?refer=embed">#fyp</a> <a title="art" target="_blank" href="https://www.tiktok.com/tag/art?refer=embed">#art</a> <a title="robots" target="_blank" href="https://www.tiktok.com/tag/robots?refer=embed">#robots</a> <a target="_blank" title="♬ Them Changes - Thundercat" href="https://www.tiktok.com/music/Them-Changes-6741079454199580674?refer=embed">♬ Them Changes - Thundercat</a> </section> </blockquote> <script async src="https://www.tiktok.com/embed.js"></script>
 
 ### About
 
